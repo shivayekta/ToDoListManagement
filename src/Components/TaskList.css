@@ -1,0 +1,13 @@
+.task-Complite{
+    background: rgb(103, 167, 103);
+}
+.task-UnComplite{
+    background: white;
+}
+.buttonTask{
+    float: right;
+    background: red;
+}
+.chk{
+    float: left;
+}
